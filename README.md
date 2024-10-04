@@ -14,6 +14,11 @@ Tras hacer el pull, abrir la caja de comandos y escribir
 
 ```
   npm install
+
+  node index.js (backend)
+
+  ionic serve (frontend)
+
 ```
 
 ## Construido con 🛠️
